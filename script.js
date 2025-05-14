@@ -1,6 +1,6 @@
         document.addEventListener('DOMContentLoaded', function() {
             // Fecha del cumpleaños
-            const targetDate = new Date('2025-03-13T00:00:00').getTime();
+            const targetDate = new Date('2026-03-13T00:00:00').getTime();
 
             // Actualiza la cuenta regresiva cada segundo
             const countdown = setInterval(function() {
